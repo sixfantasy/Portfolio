@@ -1,7 +1,8 @@
 [{
   "id":1,
   "title" : "portafolio diseño",
+  "image" : "../../../assets/PopupImages/portfolio.png",
   "description" : "Portafolio en PDF de mi curso en diseño digital en Barcelona Activa",
-  "url" : "https://drive.google.com/file/d/1biBegblwjWVK_I20HUqtFAZQBAmzGfLf/view?usp=sharing",
-  "image" : ""
+  "link" : "https://drive.google.com/file/d/1biBegblwjWVK_I20HUqtFAZQBAmzGfLf/view?usp=sharing"
+
 }]

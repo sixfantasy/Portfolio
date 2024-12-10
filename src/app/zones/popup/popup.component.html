@@ -1,6 +1,7 @@
 <div>
-<h1>Title</h1>
-<p>Paragraph</p>
-<a href="#">Link</a>
+<h1>{{PopupDataList[0].title}}</h1>
+<p>{{PopupDataList[0].description}}</p>
+<img [src]="PopupDataList[0].image" alt="">
+<a [href]="PopupDataList[0].link">Link</a>
 </div>
 <button (click)="closePopup()">close</button>
